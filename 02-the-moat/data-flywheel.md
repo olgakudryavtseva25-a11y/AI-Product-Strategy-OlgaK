@@ -36,7 +36,7 @@
 **How it compounds:** As more riders use Waymo, the company can place vehicles more efficiently, reduce wait times, and improve utilization. However, the network effect is still developing because Waymo is not yet available everywhere.
 
 
-**Total Flywheel Score: 20/25**
+**Total Flywheel Score: 17/20**
 **Weakest Loop:** Preference Loop
 **Fix for weakest loop:** Waymo should capture more rider feedback after trips and personalize the experience, such as preferred pickup spots, comfort settings, route preferences, and reasons why users choose or do not choose Waymo over Uber, Lyft, or driving themselves.
 
