@@ -8,7 +8,7 @@ The prototype demonstrates how a user can enter a trip request, receive an AI-ge
 ChatGPT / HTML clickable prototype
 
 **Prototype Link**
-https://chat.openai.com/ 
+[https://chat.openai.com/ ](https://chatgpt.com/s/t_6a2864f8bf648191b467465556062f34)
 
 **AI Value Archetype**
 Copilot / Planner
