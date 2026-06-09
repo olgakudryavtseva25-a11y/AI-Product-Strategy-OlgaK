@@ -11,7 +11,7 @@ Product Manager
 
 ## Scores
 
-### Contextual Moat — 4/5
+### Contextual Moat — 4/5 
 *Waymo is deeply connected to the full transportation workflow: finding a ride, planning a route, navigating traffic, following safety rules, and giving passengers a reliable experience.*
 
 **Score rationale:**
