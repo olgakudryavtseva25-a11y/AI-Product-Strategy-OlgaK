@@ -9,10 +9,10 @@
 
 | Loop | What It Measures | Score 1 | Score 5 | Score |
 |------|------------------|---------|---------|-------|
-| **Correction** | Do users fix AI outputs? Is that signal captured and reused? | No capture | Automated retraining | 5/5 |
-| **Preference** | Does the product learn individual / team preferences over time? | Stateless | Deep personalization | 3/5 |
-| **Domain Context** | Does usage in one area improve quality in adjacent areas? | Siloed | Cross-domain transfer | 5/5 |
-| **Network** | Does each new user / team make the product better for everyone? | Isolated | Strong network effects | 3/5 |
+| **Correction** | Does Waymo capture real-world driving mistakes, edge cases, disengagements, and safety-critical events, then reuse them to improve the autonomous driver? | No capture of mistakes or edge cases | Automated retraining and validation from real-world autonomous miles | 5/5 |
+| **Preference** | Does Waymo learn rider preferences such as pickup spots, wait times, comfort expectations, route choices, and trust signals over time? | Stateless rider experience with no personalization | Deep personalization that makes Waymo the default transportation choice | 3/5 |
+| **Domain Context** | Does Waymo learn city-specific traffic patterns, road layouts, regulations, weather, construction, and local driving behavior that improve future launches? | Siloed learning by city with little transfer | Cross-city operational and driving knowledge transfer | 5/5 |
+| **Network** | Does each new rider, trip, and vehicle improve fleet placement, coverage, wait times, and service reliability for everyone? | Isolated rides with no fleet-level learning | Strong network effects across riders, vehicles, and service areas | 3/5 |
 
 ### Correction Loop - 4/5
 **What you capture today:** Real-world rider-only autonomous driving data: routes, traffic behavior, pickup/dropoff patterns, disengagements, and edge cases from live robotaxi rides.
