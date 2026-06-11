@@ -97,6 +97,7 @@ Pricing power depends on availability, wait time, safety perception, and compari
 Customer relationship risk is high because platforms like Uber can own demand and make Waymo only the autonomous vehicle supplier.
 Main weakness:
 Waymo can have strong autonomous driving technology but still lose rider loyalty if another platform owns the booking habit, pricing interface, and customer relationship.
+
 **After (AI-enabled):**
 With Waymo Mobility Copilot, the product becomes more than a robotaxi. It becomes an intelligent mobility assistant that helps riders plan, trust, and repeat autonomous rides.
 AI-enabled revenue logic:
@@ -106,6 +107,7 @@ AI captures rider preferences over time.
 AI increases repeat usage by making Waymo feel personalized.
 AI helps Waymo defend the direct rider relationship against Uber, Lyft, Tesla, and Zoox.
 AI creates a path to premium membership through saved preferences, priority planning, and personalized ride experiences.
+
 
 **Net margin shift:**
 Expected margin effect: Positive, if inference is controlled through cascading.
