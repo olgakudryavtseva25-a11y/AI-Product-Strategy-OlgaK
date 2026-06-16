@@ -29,10 +29,11 @@ Rider can change pickup point, request a safer pickup, report confusing guidance
 
 | Metric | Target | Measurement | Alert Threshold |
 |--------|--------|-------------|-----------------|
-| Accuracy | | | |
-| Hallucination rate | | | |
-| Latency (p95) | | | |
-| Drift velocity | | | |
+| Accuracy | ≥ 95% | Weekly golden dataset pass rate | < 92% |
+| Hallucination rate | ≤ 2% | Share of answers that invent prices, safety guarantees, internal routing logic, or unavailable features | > 3% |
+| Latency (p95) | ≤ 2.5 seconds | p95 response time for rider-facing answers | > 3.5 seconds |
+| Drift velocity | ≤ 5% degradation month-over-month | Change in golden dataset pass rate and safety-rule failures over time | > 8% degradation |
+
 
 ## HITL Architecture
 <!-- When does a human step in? What's the escalation path? -->
