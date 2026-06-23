@@ -22,3 +22,17 @@ If a key sensor, vehicle, or infrastructure vendor doubles pricing tomorrow, Way
 ## If [primary vendor] ships a competing product:
 
 If a major partner, such as Hyundai, Uber, or a sensor supplier, ships a competing autonomous mobility product, Waymo should protect its core advantage: the Waymo Driver, proprietary safety data, and direct rider relationship. Waymo should reduce dependence on that partner, limit data sharing, strengthen exclusive partnerships, and prioritize direct-to-consumer growth through the Waymo app.
+
+## Product Kill Criteria
+
+Stop or materially redesign Mobility Copilot if, after a controlled pilot:
+
+- booking completion does not improve
+- cancellation after pickup assignment does not decrease
+- pickup-related support contacts do not decrease
+- rider confidence score does not improve
+- repeat ride rate within 30 days does not increase
+- hallucination rate exceeds the reliability contract threshold
+- unsafe pickup or unsupported safety guidance appears in production
+
+  
