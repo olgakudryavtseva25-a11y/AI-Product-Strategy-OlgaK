@@ -24,3 +24,17 @@ I would stop this bet if users do not find the AI recommendations helpful, if th
 Waymo Mobility Copilot is valuable if it increases booking completion, reduces pickup-related confusion, lowers cancellation after pickup assignment, and improves rider confidence versus the current Waymo booking flow.
 
 The bet is wrong if riders exposed to Copilot do not show measurable improvement in booking complet
+
+## Validation Plan
+
+Pilot duration: 2-4 weeks  
+Audience: active Waymo riders in 1-2 launch cities  
+Control: current Waymo booking flow  
+Treatment: Copilot-enabled ride planning flow  
+
+Primary metrics:
+- booking completion rate
+- cancellation rate after pickup assignment
+- pickup-related support contacts
+- post-booking confidence score
+- repeat rides within 30 days
