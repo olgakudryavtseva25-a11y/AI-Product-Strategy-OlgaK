@@ -18,3 +18,9 @@ Waymo can increase rider trust and booking confidence by using AI to recommend t
 
 **Kill Criteria**
 I would stop this bet if users do not find the AI recommendations helpful, if the explanations do not increase trust in autonomous rides, or if users still prefer booking a traditional rideshare without reviewing Waymo’s pickup safety, route confidence, and arrival reliability guidance.
+
+## Falsifiable Hypothesis
+
+Waymo Mobility Copilot is valuable if it increases booking completion, reduces pickup-related confusion, lowers cancellation after pickup assignment, and improves rider confidence versus the current Waymo booking flow.
+
+The bet is wrong if riders exposed to Copilot do not show measurable improvement in booking complet
