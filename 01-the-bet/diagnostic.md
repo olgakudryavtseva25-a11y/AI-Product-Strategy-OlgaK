@@ -34,8 +34,8 @@ Waymo’s biggest advantage is data. Every real and simulated ride helps its AI 
 
 **Named attacker (from partner challenge):**
 
-*Tesla could challenge Waymo because it also collects large amounts of real-world driving data from its vehicles.
-However, Waymo’s advantage is that its data is highly focused on autonomous ride-hailing, safety, complex city driving, and fully driverless passenger experiences.*
+Tesla could challenge Waymo because it also collects large amounts of real-world driving data from its vehicles.
+However, Waymo’s advantage is that its data is highly focused on autonomous ride-hailing, safety, complex city driving, and fully driverless passenger experiences.
 ---
 
 ### Platform Exposure — 3/5
@@ -44,16 +44,18 @@ However, Waymo’s advantage is that its data is highly focused on autonomous ri
 
 **Score rationale:**
 
-*The risk is real because big companies have strong AI, hardware, platforms, and user reach. However, Waymo’s product is not easy to copy quickly because autonomous driving requires testing, regulation, safety approval, and trust.
+The risk is real because big companies have strong AI, hardware, platforms, and user reach. However, Waymo’s product is not easy to copy quickly because autonomous driving requires testing, regulation, safety approval, and trust.
+
 **Named attacker (from partner challenge):**
+
 Uber, Tesla, and Zoox
-Uber could threaten Waymo through its ride-hailing platform and customer base. Tesla could threaten Waymo through its car network and autonomous driving technology. Zoox could also be a strong attacker because it is focused on autonomous robotaxi services.*
+Uber could threaten Waymo through its ride-hailing platform and customer base. Tesla could threaten Waymo through its car network and autonomous driving technology. Zoox could also be a strong attacker because it is focused on autonomous robotaxi services.
 ---
 
 ## Top Vulnerability
 
-<Waymo’s biggest strategic risk is that a major competitor like Tesla could scale faster by using its large car network and real-world driving data.>
+Waymo’s biggest strategic risk is that a major competitor like Tesla could scale faster by using its large car network and real-world driving data.
 
 ## Confidence Level
 
-<I am moderately confident in this bet. Waymo has strong technology, safety experience, and data, but the autonomous driving market is still changing quickly, and competition from Tesla and other big tech companies is a serious risk.>
+I am moderately confident in this bet. Waymo has strong technology, safety experience, and data, but the autonomous driving market is still changing quickly, and competition from Tesla and other big tech companies is a serious risk.
