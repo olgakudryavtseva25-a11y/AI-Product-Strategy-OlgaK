@@ -34,8 +34,8 @@ Waymo’s biggest advantage is data. Every real and simulated ride helps its AI 
 
 **Named attacker (from partner challenge):**
 
-Tesla could challenge Waymo because it also collects large amounts of real-world driving data from its vehicles.
-However, Waymo’s advantage is that its data is highly focused on autonomous ride-hailing, safety, complex city driving, and fully driverless passenger experiences.
+*Tesla could challenge Waymo because it also collects large amounts of real-world driving data from its vehicles.
+However, Waymo’s advantage is that its data is highly focused on autonomous ride-hailing, safety, complex city driving, and fully driverless passenger experiences.*
 ---
 
 ### Platform Exposure — 3/5
@@ -44,10 +44,10 @@ However, Waymo’s advantage is that its data is highly focused on autonomous ri
 
 **Score rationale:**
 
-The risk is real because big companies have strong AI, hardware, platforms, and user reach. However, Waymo’s product is not easy to copy quickly because autonomous driving requires testing, regulation, safety approval, and trust.
+*The risk is real because big companies have strong AI, hardware, platforms, and user reach. However, Waymo’s product is not easy to copy quickly because autonomous driving requires testing, regulation, safety approval, and trust.
 **Named attacker (from partner challenge):**
 Uber, Tesla, and Zoox
-Uber could threaten Waymo through its ride-hailing platform and customer base. Tesla could threaten Waymo through its car network and autonomous driving technology. Zoox could also be a strong attacker because it is focused on autonomous robotaxi services.
+Uber could threaten Waymo through its ride-hailing platform and customer base. Tesla could threaten Waymo through its car network and autonomous driving technology. Zoox could also be a strong attacker because it is focused on autonomous robotaxi services.*
 ---
 
 ## Top Vulnerability
